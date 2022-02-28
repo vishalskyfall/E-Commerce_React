@@ -1,11 +1,12 @@
 
 # E-Commerce_React
-Here, is project of E-commerce website, with help of react and  context + router.
+Here, is project of E-commerce website, where user can buy things Can see and modify cart details & at the end can use payment getway as well. With help of react and  context + router.
+
+FYI : For Payment Stripe is not fully working. 
 
 
 After npm-start ---> Visit : http://localhost:3000/
 
-We've also integrated Stripe payment module, Which is not fully working. 
 
 Please, refer below screenshots for better understanding.
 ## Screenshots
